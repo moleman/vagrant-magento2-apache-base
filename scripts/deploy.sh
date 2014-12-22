@@ -17,7 +17,7 @@ php -f setup/index.php install \
         --db_user=magento \
         --db_pass=secret \
         --backend_frontname=admin \
-        --base_url=http://127.0.0.1:8080/ \
+        --base_url=http://mage2.dev/ \
         --language=en_US \
         --timezone=America/Los_Angeles \
         --currency=USD \
